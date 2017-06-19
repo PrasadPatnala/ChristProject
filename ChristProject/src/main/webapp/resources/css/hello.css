@@ -1,0 +1,10 @@
+.mycolor{
+  font-weight: bold;
+  color: red;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 40%;
+      margin: auto;
+  }
